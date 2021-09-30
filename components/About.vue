@@ -60,8 +60,12 @@
           </p>
         </div>
         <div class="relative flex flex-row">
-          <video src="/video/video.mp4"></video>
-          <span class="absolute bottom-2 flex">
+          <video
+            src="/video/video.mp4"
+            controls
+            poster="/img/control-poster.png"
+          ></video>
+          <!-- <span class="absolute bottom-2 flex">
             <span
               ><button class="bg-black p-2 rounded-md">
                 <svg
@@ -141,7 +145,7 @@
               </button>
             </span>
           </span>
-        </div>
+        --></div>
       </div>
     </div>
   </div>
