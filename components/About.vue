@@ -1,9 +1,9 @@
 <template>
   <div>
     <div
-      class="max-w-6xl mx-auto grid grid-cols-3 gap-16 pt-8 pb-24 items-center"
+      class="max-w-6xl mx-auto grid grid-cols-3 gap-12 pt-8 pb-24 items-center"
     >
-      <div class="grid items-center">
+      <div class="grid self-center">
         <img src="/img/diplome.svg" alt="" />
         <div>
           <h3 class="font-bold text-blue-900 tracking-wider text-lg">

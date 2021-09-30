@@ -12,10 +12,16 @@
     >
       <img class="" src="/img/banner.png" alt="Banner image" />
       <div class="space-y-6">
-        <span class="items-center">
-          <span class="text-5xl text-white font-bold bg-gray-700">
-            Become <br />
-            Future-Proof
+        <span class="relative">
+          <span class="">
+            <h1 class="text-5xl text-white font-bold bg-gray-700 px-4 w-2/5">
+              Become
+            </h1>
+            <h1
+              class="text-5xl text-white font-bold bg-gray-700 px-4 w-4/6 pb-2"
+            >
+              Future-Proof
+            </h1>
           </span>
         </span>
         <p class="text-white">
