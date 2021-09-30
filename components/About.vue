@@ -3,7 +3,7 @@
     <div
       class="max-w-6xl mx-auto grid grid-cols-3 gap-12 pt-8 pb-24 items-center"
     >
-      <div class="grid self-center">
+      <div class="flex flex-col items-center">
         <img src="/img/diplome.svg" alt="" />
         <div>
           <h3 class="font-bold text-blue-900 tracking-wider text-lg">
@@ -15,7 +15,7 @@
           </p>
         </div>
       </div>
-      <div class="">
+      <div class="flex flex-col items-center">
         <img src="/img/mentor.svg" alt="" />
         <div>
           <h3 class="font-bold text-blue-900 tracking-wider text-lg">
@@ -27,7 +27,7 @@
           </p>
         </div>
       </div>
-      <div class="">
+      <div class="flex flex-col items-center">
         <img src="/img/job.svg" alt="" />
         <div>
           <h3 class="font-bold text-blue-900 tracking-wider text-lg">
