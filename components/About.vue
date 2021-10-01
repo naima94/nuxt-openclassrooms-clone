@@ -45,7 +45,7 @@
       <div class="max-w-6xl mx-auto grid grid-cols-2 gap-10 py-8 items-center">
         <div class="">
           <span class="items-center p-4"
-            ><h1 class="text-white bg-blue-600 font-bold text-4xl left-0">
+            ><h1 class="text-white bg-blue-600 font-bold text-4xl px-4 w-3/4">
               See what we’re about
             </h1></span
           >
