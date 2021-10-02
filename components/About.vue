@@ -41,6 +41,8 @@
       </div>
     </div>
 
+    <!-- VIDEO-->
+
     <div class="w-full bg-red-100 p-12">
       <div class="max-w-6xl mx-auto grid grid-cols-2 gap-10 py-8 items-center">
         <div class="">
@@ -146,6 +148,25 @@
             </span>
           </span>
         --></div>
+      </div>
+    </div>
+
+    <!-- CAROUSSEL-->
+
+    <div>
+      <h2>What our students say</h2>
+      <div>
+        <div class="flex">
+          <div>
+            <img src="/img/caroussel1.jpg" alt="" />
+          </div>
+          <div>
+            <p>
+              "I think the most important thing when you are learning to program
+              is to have people around you who believe in you. "
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
